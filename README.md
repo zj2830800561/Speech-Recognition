@@ -6,7 +6,7 @@
 >支持音频格式：pcm、wav、amr、m4a  
 >音频编码要求：采样率 16000、8000（仅支持普通话模型），16 bit 位深，单声道  
     
-详细使用方法见百度语言技术文档：https://ai.baidu.com/ai-doc/SPEECH/Vk38lxily  
+详细使用方法见百度语音技术文档：https://ai.baidu.com/ai-doc/SPEECH/Vk38lxily  
 
 
 *程序界面：  
